@@ -1,0 +1,51 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: goldenrod;
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+h2 {
+    color: goldenrod;
+    background-color: blueviolet;
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+h1,
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+
+li {
+    list-style-position: inside;
+    color: firebrick;
+}
+
+ol li {
+    color: crimson;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+a {
+    color: aqua;
+}
